@@ -11,6 +11,7 @@ Features:
 - Local storage data saving
 
 Technologies Used:
+
 HTML
 CSS
 JavaScript
