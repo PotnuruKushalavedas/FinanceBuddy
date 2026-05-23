@@ -1,7 +1,7 @@
 # Finance Tracker Pro
 
 A modern personal finance tracker built using HTML, CSS and JavaScript.
-
+Its a web application used to track your financial budgets.
 
 Features:
 - Add income and expenses
