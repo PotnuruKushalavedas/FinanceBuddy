@@ -2,6 +2,7 @@
 
 A modern personal finance tracker built using HTML, CSS and JavaScript.
 
+
 Features:
 - Add income and expenses
 - Category tracking
@@ -14,7 +15,7 @@ Features:
 link :
 https://finance-buddy-woad.vercel.app/
 ----
-Technologies Used:
+Tech Stack 
 
 HTML
 CSS
